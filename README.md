@@ -24,4 +24,4 @@ Este proyecto se encarga de mejorar el aprendizaje de todas las funciones en Git
 * E
 
 
-![GitHub Logo]([https://i.pinimg.com/originals/66/9c/68/669c68af00d49891e2f3c78c539862da.png](https://i.pinimg.com/736x/8b/62/04/8b62048bb3463707c31eaf25ac85a4bd.jpg))
+![GitHub Logo](https://i.pinimg.com/736x/8b/62/04/8b62048bb3463707c31eaf25ac85a4bd.jpg)
