@@ -1,4 +1,4 @@
-# git-github-control-versiones
+# control-versiones-git
 
 Proyecto de práctica basado en el curso **"GIT+GitHub: Todo un sistema de control de versiones de cero"** (Udemy).
 
