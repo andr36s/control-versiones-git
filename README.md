@@ -1,27 +1,30 @@
-# Objetivos de la repositorio
+# git-github-control-versiones
 
-Este proyecto se encarga de mejorar el aprendizaje de todas las funciones en GitHub
+Proyecto de práctica basado en el curso **"GIT+GitHub: Todo un sistema de control de versiones de cero"** (Udemy).
 
-## Estos cambios son nuevos desde github
+## 📌 Descripción
 
-## Esto desde mi repositorio local
+Este repositorio contiene ejercicios y ejemplos prácticos realizados durante el curso de Git y GitHub. El objetivo es reforzar conceptos clave sobre el control de versiones y el uso de GitHub como plataforma de colaboración.
 
+## 🛠️ Tecnologías utilizadas
 
-# h1
-## h2
-### h3
-#### h4
-##### h5
-###### h6
+- **Git** – Sistema de control de versiones distribuido  
+- **GitHub** – Plataforma para alojar y colaborar en proyectos con Git
 
-* A
-* B
-* C
-* D
-  * d1
-  * d2
-  * d3
-* E
+## ✅ Temas practicados
 
+- Instalación y configuración de Git  
+- Comandos básicos (`init`, `add`, `commit`, `status`, etc.)  
+- Manejo de ramas (`branch`, `checkout`, `merge`)  
+- Resolución de conflictos  
+- Conexión con GitHub mediante SSH  
+- Push y pull de repositorios remotos  
+- Uso de `.gitignore`  
+- Buenas prácticas con commits
 
-![GitHub Logo](https://i.pinimg.com/736x/8b/62/04/8b62048bb3463707c31eaf25ac85a4bd.jpg)
+## 🚀 Cómo usar este repositorio
+
+Puedes clonar este repositorio para estudiar los ejemplos, practicar comandos y experimentar con tu propio flujo de trabajo:
+
+```bash
+git clone https://github.com/andr36s/control-versiones-git.git
