@@ -1,6 +1,6 @@
 # control-versiones-git
 
-Proyecto de práctica basado en el curso **"GIT+GitHub: Todo un sistema de control de versiones de cero"** (Udemy).
+Proyecto avanzado basado en el curso **"GIT+GitHub: Todo un sistema de control de versiones de cero"** (Udemy).
 
 ## 📌 Descripción
 
